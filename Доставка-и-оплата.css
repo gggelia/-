@@ -1,0 +1,112 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1223px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Poiret One";
+  margin: 34px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 380px;
+  height: 380px;
+  margin: 0 -410px 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  width: 380px;
+  height: 380px;
+  margin: -380px auto 0 -410px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Poiret One";
+  font-size: 3rem;
+  margin: -328px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: "Poiret One";
+  font-size: 1.875rem;
+  margin: 0 30px;
+}
+
+.u-section-1 .u-text-4 {
+  line-height: 1.5;
+  font-weight: normal;
+  font-size: 1.875rem;
+  margin: 37px 0 0;
+}
+
+.u-section-1 .u-image-3 {
+  width: 380px;
+  height: 380px;
+  margin: -421px -410px 0 auto;
+}
+
+.u-section-1 .u-image-4 {
+  width: 380px;
+  height: 380px;
+  margin: -380px auto 60px -410px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-top: -17px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 136px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 314px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-3 {
+    margin-top: 316px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 134px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-3 {
+    margin-top: -20px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 412px;
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-3 {
+    margin-top: 172px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 163px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-bottom: 6px;
+  }
+}
